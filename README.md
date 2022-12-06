@@ -4,7 +4,7 @@ Usual set of programs are:
   1) Solution of Quadratic equation
   2) Binary to Decimal
   3) Structures
-  4) Number palindrome
+  4) Matrix Multiplication
   5) Pointers and String palindrome
   6) Linear and Binary search
   7) Selection and Bubble sort
